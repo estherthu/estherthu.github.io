@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+An Asian American academic from Taiwan, Esther Hu is a feminist literary scholar and historian who recovers (and uncovers) women’s voices. She specializes in showcasing the work of marginalized or forgotten poets, writers, missionary-educators, and other female thought leaders.
+Dr. Hu is the author of [Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons (Rowman & Littlefield 2025)](https://rowman.com/ISBN/9781666928617/Soong-Mayling-and-Wartime-China-1937-1945-Deploying-Words-as-Weapons), which focuses on the First Lady of China’s timely and critical contributions in the areas of war, women’s work, and diplomacy during China’s War of Resistance as inflected through gender.
