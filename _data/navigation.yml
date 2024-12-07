@@ -5,18 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Publications"
+    url: /publications/
 
+  - title: "Talks"
+    url: /talks/
+    
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Soong Mayling Studies"
-    url: /SoongMaylingStudies/
-
-  - title: "Other Publications"
-    url: /otherpublications/
-
-  - title: "Media"
-    url: /media/
-    
