@@ -11,12 +11,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-    title: "Soong Mayling Studies"
+  - title: "Soong Mayling Studies"
     url: /SoongMaylingStudies/
 
-    title: "Other Publications"
+  - title: "Other Publications"
     url: /otherpublications/
 
-    title: "Media"
+  - title: "Media"
     url: /media/
     
