@@ -18,7 +18,7 @@ The research monograph examines Madame Chiang Kai-shek’s work through her own 
 
 Dr. Hu is also the English translator of Soong Mayling’s most recent Chinese-language pictorial biography, [A Legacy of Grace and Resilience: Soong Mayling and her Era (Republic of China History and Culture Society 2023; Second Edition 2004)](http://www.rchcs.com.tw/bookdetail-1763.html).
 
-Praise for Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons (Rowman & Littlefield 2025):
+Praise for <i>Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons</i> (Rowman & Littlefield 2025):
 ======
 In most English-language historical writing on wartime China, Soong Mayling appears as an interesting footnote, rather than a central figure. Esther Hu’s book provides a new perspective, revealing Soong Mayling’s important contributions as an orator, writer, and organizer who worked tirelessly to rally the Chinese people during a national crisis.— Peter Worthing, Texas Christian University
 
@@ -31,21 +31,21 @@ SELECTED ACADEMIC PUBLICATIONS (2019-present)
 
 Book(s), Peer-Reviewed Translations, and Reviews
 ------
-Hu, Esther T. Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons. Lanham: Rowman & Littlefield/London: Bloomsbury, 2025.
+Hu, Esther T. <i>Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons</i>. Lanham: Rowman & Littlefield/London: Bloomsbury, 2025.
 
-Hu, Esther (trans. and ed.[English]) 佳美的腳蹤：宋美齡與她的時代 A Legacy of Grace and Resilience: Soong Mayling and her Era, edited by Chen Liwen. Taipei: Minguo lishi wenhuaxueshe, 2023. Second Edition, 2024.
+Hu, Esther (trans. and ed.[English]) 佳美的腳蹤：宋美齡與她的時代 <i>A Legacy of Grace and Resilience: Soong Mayling and her Era</i>, edited by Chen Liwen. Taipei: Minguo lishi wenhuaxueshe, 2023. Second Edition, 2024.
 
 Hu, Esther T. "Becoming Kuniong: Vocal Encounter and Female Missionary Work in Gutian, China (1893–1895)." Berlin: De Gruyter Oldenbourg, 2023. Open Access. DOI: https://doi.org/10.1515/9783111079370-002
 
-Hu, Esther T. "Lyric Poetry." From The Palgrave Encyclopedia of Victorian Women's Writing. Berlin: Springer Nature, 2022 (Print). https://link.springer.com/referenceworkentry/10.1007/978-3-030-02721-6_317-1  
+Hu, Esther T. "Lyric Poetry." From <i>The Palgrave Encyclopedia of Victorian Women's Writing</i>. Berlin: Springer Nature, 2022 (Print). https://link.springer.com/referenceworkentry/10.1007/978-3-030-02721-6_317-1  
 
-Hu, Esther T. (trans.) “Ten Thousand Scrolls of Books” (10,400+ words, including Translator’s Note).  Studies on Asia, Vol. 7.1 (2022): 100-118. Open Access. DOI: https://studiesonasia.scholasticahq.com/article/36728-ten-thousand-scrolls-of-books
+Hu, Esther T. (trans.) “Ten Thousand Scrolls of Books” (10,400+ words, including Translator’s Note).  <i>Studies on Asia</i>, Vol. 7.1 (2022): 100-118. Open Access. DOI: https://studiesonasia.scholasticahq.com/article/36728-ten-thousand-scrolls-of-books
 
-Hu, Esther T. Review of The Hijacked War: The Story of Chinese POWs in the Korean War (Stanford, 2020), The Journal of Chinese Military History 10 (2021): 81-84.
+Hu, Esther T. Review of <i>The Hijacked War: The Story of Chinese POWs in the Korean War</i> (Stanford, 2020), <i>The Journal of Chinese Military History</i> 10 (2021): 81-84.
 
-Hu, Esther T. Review of Voices from the Chinese Century: Public Intellectual Debate from Contemporary China (Columbia, 2020) (2500+ words), China Review International: A Journal of Reviews of Scholarly Literature in Chinese Studies, Vol. 25.3 (October 2020): 251-257.
+Hu, Esther T. Review of <i>Voices from the Chinese Century: Public Intellectual Debate from Contemporary China</i> (Columbia, 2020) (2500+ words), <i>China Review International: A Journal of Reviews of Scholarly Literature in Chinese Studies</i>, Vol. 25.3 (October 2020): 251-257.
 
-Hu, Esther T. (trans.) “The Photograph.” Renditions, the leading academic journal of Chinese Literature in English Translation, No. 91 (Spring 2019): 113-130.
+Hu, Esther T. (trans.) “The Photograph.” <i>Renditions</i>, the leading academic journal of Chinese Literature in English Translation, No. 91 (Spring 2019): 113-130.
 
 
 
