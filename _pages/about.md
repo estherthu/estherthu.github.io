@@ -29,7 +29,7 @@ Soong Mayling was the most influential woman of the Second World War, not just i
 SELECTED ACADEMIC PUBLICATIONS (2019-present)
 ======
 
-Book(s), Peer-Reviewed Translations, and Reviews
+Book(s), Peer-Reviewed Book Chapters, Translations, and Reviews
 ------
 Hu, Esther T. <i>Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons</i>. Lanham: Rowman & Littlefield/London: Bloomsbury, 2025.
 
