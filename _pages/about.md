@@ -14,7 +14,7 @@ She is the author of [Soong Mayling and Wartime China, 1937-1945: Deploying Word
 
 The research monograph examines Madame Chiang Kai-shek’s work through her own words by discussing her speeches, essays, letters, telegrams, and news reports during the war period from archives around the world. How did Madame Chiang Kai-shek’s gender identity shape her interactions with other Chinese women, the male military and political leadership in the Republic of China, and the broader global public? How did Confucianism’s cardinal virtues and Chinese Christianity converge in Soong Mayling’s work and worldview? What were her main contributions as Secretary-General of the Chinese Air Force? Drawing on Chinese archival materials such as Chiang Kai-shek’s diaries and other records around the world, Esther Hu provides a historically informed perspective of the First Lady’s legacy within the context of World War II history, international cultural and military affairs, and transnational geopolitics. 
 
-Dr. Hu is also the English translator of Soong Mayling’s most recent Chinese-language pictorial biography, [A Legacy of Grace and Resilience: Soong Mayling and her Era (Republic of China History and Culture Society 2023; Second Edition 2004)] (http://www.rchcs.com.tw/bookdetail-1763.html).
+Dr. Hu is also the English translator of Soong Mayling’s most recent Chinese-language pictorial biography, [A Legacy of Grace and Resilience: Soong Mayling and her Era (Republic of China History and Culture Society 2023; Second Edition 2004)](http://www.rchcs.com.tw/bookdetail-1763.html).
 
 Praise for Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons (Rowman & Littlefield 2025):
 
