@@ -47,6 +47,12 @@ Hu, Esther T. Review of <i>The Hijacked War: The Story of Chinese POWs in the Ko
 
 Hu, Esther T. Review of <i>Voices from the Chinese Century: Public Intellectual Debate from Contemporary China</i> (Columbia, 2020) (2500+ words), <i>China Review International: A Journal of Reviews of Scholarly Literature in Chinese Studies</i>, Vol. 25.3 (October 2020): 251-257.
 
+Hu, Esther T. Review of <i>Literary Representations of Christianity in Late Qing and Republican China</i> by Lai, John T.P., <i>Religion and the Arts</i> 24, 4 (2020): 435-438. DOI:[https://doi.org/10.1163/15685292-02404007](https://doi.org/10.1163/15685292-02404007)
+
+Hu, Esther T. "Critical Literacy, Place-Based Pedagogy, and Social Justice: Teaching Mildred Taylor’s <i>Roll of Thunder, Hear My Cry</i> (1976) to Multilingual (ELL/L2/SWL) College Students." <i>English Leadership Quarterly</i> 43, 1 (Aug 2020): 15 18. DOI: [https://doi.org/10.58680/elq202030821](https://doi.org/10.58680/elq202030821)
+
+Hu, Esther T.  Review of <i>Christina Rossetti: Poetry in Art</i> by Owens, Susan, and Nicholas Tromans, eds., <i>Religion and the Arts</i> 24, 3 (2020): 328-331. DOI: [https://doi.org/10.1163/15685292-02403006](https://doi.org/10.1163/15685292-02403006)
+
 Hu, Esther T. (trans.) “The Photograph.” <i>Renditions</i>, the leading academic journal of Chinese Literature in English Translation, No. 91 (Spring 2019): 113-130.
 
 
