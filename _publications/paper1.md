@@ -2,7 +2,7 @@
 title: "Ten Thousand Scrolls of Books"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paper1
 date: 2022
 venue: 'Studies on Asia, Vol. 7.1 (2022): 100-118'
 paperurl: 'https://studiesonasia.scholasticahq.com/article/36728-ten-thousand-scrolls-of-books'
