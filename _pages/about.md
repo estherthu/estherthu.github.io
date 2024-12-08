@@ -20,6 +20,8 @@ Dr. Hu is also the English translator of Soong Mayling’s most recent Chinese-l
 
 Praise for <i>Soong Mayling and Wartime China, 1937-1945: Deploying Words as Weapons</i> (Rowman & Littlefield 2025):
 ======
+Soong Mayling, or Madame Chiang Kai-shek, was one of the most influential and controversial women of the twentieth century and Esther T. Hu’s careful study of her wartime activities is sure to further elevate her stature. This history recovers Mayling’s eloquence and passion in rallying the Chinese people, especially its women, to resist Japanese aggression. It is no wonder that millions of Americans came to understand China’s global mission through its first lady.— Gordon H. Chang, Stanford University
+
 In most English-language historical writing on wartime China, Soong Mayling appears as an interesting footnote, rather than a central figure. Esther Hu’s book provides a new perspective, revealing Soong Mayling’s important contributions as an orator, writer, and organizer who worked tirelessly to rally the Chinese people during a national crisis.— Peter Worthing, Texas Christian University
 
 This compelling and meticulously researched study delves into the many dimensions of Soong Mayling’s contributions to wartime China from 1937 to 1945. Drawing on archival records, newly released sources, and contemporary scholarship, it brings Soong Mayling vividly to life with clear and engaging prose. A must-read for scholars and students of WWII history and modern China, as well as for general readers captivated by the legacy of Soong Mayling and the complex era of wartime China.— Peter Chen-Main Wang, Fu-jen Catholic University
